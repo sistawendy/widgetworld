@@ -1,3 +1,5 @@
 == Widget World
 
 This is a very simple sample Rails application that uses Postgresql as it's DB.
+
+This is meant only to be used as an example in tutorials.
